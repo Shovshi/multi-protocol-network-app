@@ -1,4 +1,4 @@
-echo "# Multi-Protocol Network App
+# Multi-Protocol Network App
 
 ### Project Overview  
 This project demonstrates a network application implementing multiple protocols (RUDP, TCP, DHCP, DNS).  
